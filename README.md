@@ -36,5 +36,5 @@ Simulink Results for step response and Square-wave tracking
 ![RBF NN Supervisory Control - Square Wave Tracking - Simulink](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/385c96ee-da69-4a99-aacf-e47b48bdf46d)
 
 ## References
-D. M. Dawson, Carroll, and M. Schneider, “Integrator Backstepping Control of a Brush DC Motor Turning a Robotic Load,” IEEE Trans. Contr. Sys. Tech., vol. 2, no. 3, pp. 233-244, Sept. 1994.
-Control Tutorials for MATLAB & Simulink
+- D. M. Dawson, Carroll, and M. Schneider, “Integrator Backstepping Control of a Brush DC Motor Turning a Robotic Load,” IEEE Trans. Contr. Sys. Tech., vol. 2, no. 3, pp. 233-244, Sept. 1994.
+- Control Tutorials for MATLAB & Simulink
