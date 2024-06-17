@@ -1,7 +1,7 @@
 # RBF-NN-SupervisoryControl
 
 ## Introduction
-A PD Controller Design was designed for Single Link Robotic Joint with a comparision between Root Locus and Radial Baise Function Neural Network as a Supervisory Control.
+A PD Controller Design was designed for Single Link Robotic Joint with a comparision between Root Locus and Radial Basis Function Neural Network as a Supervisory Control.
 
 ## System Model
 In this example, a single-link direct-drive manipulator is actuated by a DC motor as described above. The schematic of the electromechanical system is as following:
