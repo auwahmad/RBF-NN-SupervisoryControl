@@ -28,12 +28,15 @@ _[1-4-1] RBF NN structure was used for the given problem_
 ![RBF - NN Structure  1-4-1](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/e85f807c-f04a-494a-abda-3df40e6b888d)
 
 _Step Response Comparison using MATLAB Live Script_
+
 ![RBF NN Supervisory Control - MATLAB Live Script](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/c27b667c-6237-4a9d-8832-5590209ce482)
 
 _Simulink Model was developed to have much more inituitive approach and control over the system input_
+
 ![Simulink Model RBF NN Supervisory Control](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/84045162-c9ce-40bb-a054-60098dfdb05a)
 
-_Simulink Results for step response and Square-wave tracking _
+_Simulink Results for step response and Square-wave tracking_
+
 ![Simulink Scopes - RBF NN Supervisory Control](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/f2128ef7-c90e-411b-bf65-d385afba8d1e)
 
 
