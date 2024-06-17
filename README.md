@@ -31,6 +31,10 @@ _Step Response Comparison using MATLAB Live Script_
 
 ![RBF NN Supervisory Control - MATLAB Live Script](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/c27b667c-6237-4a9d-8832-5590209ce482)
 
+_RBF supervisorycontrol system_
+
+![image](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/a0cfc5de-5ec9-4ebb-8d0c-2cddc90381bb)
+
 _Simulink Model was developed to have much more inituitive approach and control over the system input_
 
 ![Simulink Model RBF NN Supervisory Control](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/84045162-c9ce-40bb-a054-60098dfdb05a)
