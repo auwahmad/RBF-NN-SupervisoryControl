@@ -35,7 +35,7 @@ _RBF supervisorycontrol system_
 
 ![image](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/a0cfc5de-5ec9-4ebb-8d0c-2cddc90381bb)
 
-_Simulink Model was developed to have much more inituitive approach and control over the system input_
+_Simulink Model was developed to have much more intuitive approach and control over the system input_
 
 ![Simulink Model RBF NN Supervisory Control](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/84045162-c9ce-40bb-a054-60098dfdb05a)
 
