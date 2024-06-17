@@ -19,22 +19,26 @@ For this example, we will assume the following values for the Robotic Load
 - Load Radius = 2.5cm;
 - Load Mass = 10gram;    
 
-General RBF network structure
+_General RBF network structure_
+
 ![RBF - NN General Structure](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/d0a32a60-c309-45cd-8f6c-44b0f7d213d1)
 
-[1-4-1] RBF NN structure was used for the given problem
+_[1-4-1] RBF NN structure was used for the given problem_
+
 ![RBF - NN Structure  1-4-1](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/e85f807c-f04a-494a-abda-3df40e6b888d)
 
-Step Response Comparison using MATLAB Live Script
+_Step Response Comparison using MATLAB Live Script_
 ![RBF NN Supervisory Control - MATLAB Live Script](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/c27b667c-6237-4a9d-8832-5590209ce482)
 
-Simulink Model was developed to have much more inituitive approach and control over the system input
+_Simulink Model was developed to have much more inituitive approach and control over the system input_
 ![Simulink Model RBF NN Supervisory Control](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/84045162-c9ce-40bb-a054-60098dfdb05a)
 
-Simulink Results for step response and Square-wave tracking 
+_Simulink Results for step response and Square-wave tracking _
 ![Simulink Scopes - RBF NN Supervisory Control](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/f2128ef7-c90e-411b-bf65-d385afba8d1e)
+
+
 ![RBF NN Supervisory Control - Square Wave Tracking - Simulink](https://github.com/auwahmad/RBF-NN-SupervisoryControl/assets/70074147/385c96ee-da69-4a99-aacf-e47b48bdf46d)
 
 ## References
 - D. M. Dawson, Carroll, and M. Schneider, “Integrator Backstepping Control of a Brush DC Motor Turning a Robotic Load,” IEEE Trans. Contr. Sys. Tech., vol. 2, no. 3, pp. 233-244, Sept. 1994.
-- Control Tutorials for MATLAB & Simulink
+- [Control Tutorials for MATLAB & Simulink](https://ctms.engin.umich.edu/CTMS/index.php?example=MotorPosition&section=SystemModeling)
